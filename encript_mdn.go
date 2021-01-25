@@ -1,5 +1,5 @@
 package encription_mdn
 
 func EncriptMdn() string {
-	return "Decript Mdn"
+	return "Decript Mdn new"
 }
